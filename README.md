@@ -1,4 +1,4 @@
-# team-synchrony
+# team-singularity
 ITCS 8156 Group Project
 
 The rubric and assignment guidelines are all linked from the following page.
